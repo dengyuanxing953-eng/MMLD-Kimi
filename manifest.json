@@ -1,0 +1,7 @@
+{
+  "name": "mmld-kimi",
+  "version": "2.0.0",
+  "description": "星野本地生活GEO-Kimi长文清道夫专属Skills弹药库",
+  "entrypoint": "mmld_kimi_v2.py",
+  "platforms": ["linux", "macos", "windows"]
+}
